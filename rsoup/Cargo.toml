@@ -1,0 +1,4 @@
+[package]
+name = "rsoup"
+version = "0.1.0"
+authors = ["SadangHobbits <wooq@nhnnext.org>", "SadangHobbits <indie@nhnnext.org>"]

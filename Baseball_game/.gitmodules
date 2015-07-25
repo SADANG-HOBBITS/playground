@@ -1,0 +1,9 @@
+[submodule "Rust-BaseballGame"]
+	path = Rust-BaseballGame
+	url = https://github.com/YoonSung/Rust-BaseballGame.git
+[submodule "rust_study"]
+	path = rust_study
+	url = https://github.com/wooq17/rust_study.git
+[submodule "rust_baseballgame"]
+	path = rust_baseballgame
+	url = https://github.com/trizdreaming/rust_baseballgame

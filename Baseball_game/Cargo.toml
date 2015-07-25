@@ -1,0 +1,7 @@
+[package]
+name = "baseball"
+version = "0.1.0"
+authors = ["quxn6 <quxn6@naver.com>"]
+
+[dependencies]
+rand = "0.3.8"

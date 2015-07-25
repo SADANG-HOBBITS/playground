@@ -1,0 +1,6 @@
+[submodule "Rust-PriorityQueue"]
+	path = Rust-PriorityQueue
+	url = https://github.com/YoonSung/Rust-PriorityQueue.git
+[submodule "rust_minheap"]
+	path = rust_minheap
+	url = https://github.com/trizdreaming/rust_minheap

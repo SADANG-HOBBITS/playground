@@ -1,0 +1,6 @@
+[submodule "rust_quicksort"]
+	path = rust_quicksort
+	url = https://github.com/trizdreaming/rust_quicksort
+[submodule "Rust-Sort"]
+	path = Rust-Sort
+	url = https://github.com/YoonSung/Rust-Sort.git
