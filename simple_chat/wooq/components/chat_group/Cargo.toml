@@ -1,0 +1,14 @@
+[package]
+name = "chat_group"
+version = "0.1.0"
+authors = ["wooq <wooq@nhnnext.org>"]
+
+[dependencies]
+bincode = "*"
+rustc-serialize = "*"
+
+[dependencies.client]
+path = "../client"
+
+[dependencies.header]
+path = "../header"

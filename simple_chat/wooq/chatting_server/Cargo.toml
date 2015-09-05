@@ -1,0 +1,10 @@
+[package]
+name = "chatting_server"
+version = "0.1.0"
+authors = ["wooq <wooq@nhnnext.org>"]
+
+[dependencies.client]
+path = "../components/client"
+
+[dependencies.chat_group]
+path = "../components/chat_group"
