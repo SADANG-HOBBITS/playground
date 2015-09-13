@@ -6,5 +6,5 @@ authors = ["wooq <wooq@nhnnext.org>"]
 [dependencies.client]
 path = "../components/client"
 
-[dependencies.chat_group]
-path = "../components/chat_group"
+[dependencies.event_handler]
+path = "../components/event_handler"

@@ -1,5 +1,5 @@
 [package]
-name = "chat_group"
+name = "event_handler"
 version = "0.1.0"
 authors = ["wooq <wooq@nhnnext.org>"]
 
